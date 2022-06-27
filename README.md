@@ -9,5 +9,5 @@ Software Development Technical Challenge
 - Calculates average weight and height for all pokemon and logs the result
 - Includes a Unit test which ensures the average height calculation matches the expected output and can be run by typing "npm test" in the cmd.
 - Logs out the total time for the application to run
-  Bonus:
-- Calculates the average weight and height by each individual Pokemon Type and logs the result
+- Bonus:
+  Calculates the average weight and height by each individual Pokemon Type and logs the result
